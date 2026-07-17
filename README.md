@@ -58,9 +58,7 @@ Classification Report:
 
 *(Insert confusion matrix image here after uploading it.)*
 
-```markdown
 ![Confusion Matrix](images/confusion_matrix.png)
-```
 
 ---
 
