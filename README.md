@@ -56,8 +56,6 @@ Classification Report:
 
 ## Confusion Matrix
 
-*(Insert confusion matrix image here after uploading it.)*
-
 ![Confusion Matrix](images/confusion_matrix.png)
 
 ---
